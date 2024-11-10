@@ -1,4 +1,4 @@
-# Apple Wallet Clone with Vision Camera 📱
+# Apple Wallet Clone with Vision Camera  🎥
 
 **Platform**: iOS & Android (Cross-platform Mobile Application)  
 **Technologies**: React Native, React Native Reanimated, Gesture Handler, Vision Camera
